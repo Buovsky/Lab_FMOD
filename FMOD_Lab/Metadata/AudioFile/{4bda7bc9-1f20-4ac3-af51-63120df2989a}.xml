@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{4bda7bc9-1f20-4ac3-af51-63120df2989a}">
+		<property name="assetPath">
+			<value>Player/Footsteps/Snow/snow_footstep-03.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.432</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7244b389-c39f-4796-8b30-92c6abdf1db3}</destination>
+		</relationship>
+	</object>
+</objects>

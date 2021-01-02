@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{b95f2d6f-64d5-45b7-b438-304e2da35c7d}">
+		<property name="assetPath">
+			<value>Player/Footsteps/Dirt/Dirt_Walk-07.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.47020408163265304</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7244b389-c39f-4796-8b30-92c6abdf1db3}</destination>
+		</relationship>
+	</object>
+</objects>

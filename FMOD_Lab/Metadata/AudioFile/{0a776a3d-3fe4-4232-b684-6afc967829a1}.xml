@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{0a776a3d-3fe4-4232-b684-6afc967829a1}">
+		<property name="assetPath">
+			<value>Player/Footsteps/Metal/Metal_Walk-03.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.4179591836734694</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7244b389-c39f-4796-8b30-92c6abdf1db3}</destination>
+		</relationship>
+	</object>
+</objects>
